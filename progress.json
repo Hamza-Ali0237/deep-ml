@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:53:17.337Z",
+  "generated_at": "2026-10-03T09:53:18.829Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -179,7 +179,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-03T09:50:57.219Z",
-      "last_pushed_at": "2026-10-03T09:50:57.219Z"
+      "last_pushed_at": "2026-10-03T09:53:18.827Z"
     }
   }
 }
